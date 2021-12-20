@@ -1,5 +1,5 @@
 # Project: Data Warehouse
-The project is a part of Udacity Data Enginerring Nanodegree, details can be found here: https://www.udacity.com/course/data-engineer-nanodegree--nd027
+The project is a part of Udacity Data Engineering Nanodegree, details can be found here: https://www.udacity.com/course/data-engineer-nanodegree--nd027
 
 A music streaming startup, Sparkify, has grown their user base and song database and want to move their processes and data onto the cloud. Their data resides in S3, in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app.
 
