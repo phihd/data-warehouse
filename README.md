@@ -29,7 +29,7 @@ Run `create_cluster.ipynb`
 
 Step 3: Run the program
 ```bash
-cd data-modeling-posgreSQL
+cd data-warehouse
 python create_tables.py
 python etl.ipynb
 ```
