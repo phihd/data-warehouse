@@ -3,9 +3,7 @@ The project is a part of Udacity Data Engineering Nanodegree, details can be fou
 
 A music streaming startup, Sparkify, has grown their user base and song database and want to move their processes and data onto the cloud. Their data resides in S3, in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app.
 
-The project aims to create an ETL pipeline that extracts the data from S3, stages them in Redshift, and transforms data into a set of dimensional tables. The task is to load data from S3 to staging tables on Redshift and execute SQL statements that create the analytics tables from these staging tables.
-
-In detail, fact and dimiension tables for a star schema are defined for a particular analytic focus. An ETL pipeline that transfers data from files in two directories on cloud into these tables in Postgres was built using Python and SQL.
+The project aims to create an ETL pipeline that extracts the data from S3, stages them in Redshift, and transforms data into a set of dimensional tables. In detail, fact and dimiension tables for a star schema are defined for a particular analytic focus. The ETL pipeline that transfers data from files in two directories on cloud into these tables in Postgres was built using Python and SQL.
 
 Keywords: PosgreSQL, S3, Redshift, Python.
 
