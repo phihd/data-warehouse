@@ -24,7 +24,10 @@ Step 1: Clone the project from repo
 ```bash
 git clone git@github.com:phihd/data-warehouse.git
 ```
-Step 2: Run the program
+Step 2: Create Redshift cluster
+Run `create_cluster.ipynb`
+
+Step 3: Run the program
 ```bash
 cd data-modeling-posgreSQL
 python create_tables.py
